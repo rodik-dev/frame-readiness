@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    section_id: ' asdf '
+    section_id: asdfas
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
