@@ -15,7 +15,7 @@ sections:
         url: /features
         style: secondary
     image: images/classic/hero.png
-    image_alt: Hero section placasd faseholder image
+    image_alt: Hero section placasd faseholder imagesdfg sdf g
     media_position: left
     media_width: fifty
     align: left
